@@ -31,6 +31,7 @@ class Program
            num++;
 
        }
+        
        Console.WriteLine($"The total is {total}");
 
     }
