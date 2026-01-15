@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while_loop", "while_loop\while_loop.csproj", "{63A29F03-703F-4FC7-AA8E-CE87308B54DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A29F03-703F-4FC7-AA8E-CE87308B54DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A29F03-703F-4FC7-AA8E-CE87308B54DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A29F03-703F-4FC7-AA8E-CE87308B54DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A29F03-703F-4FC7-AA8E-CE87308B54DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
