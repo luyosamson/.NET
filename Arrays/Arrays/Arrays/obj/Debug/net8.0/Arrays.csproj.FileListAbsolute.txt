@@ -1,0 +1,15 @@
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+D:\Development\dotNET_Training\Arrays\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
