@@ -13,7 +13,6 @@ class Program
         }
         else
         {
-            
             Console.WriteLine($"{num} is an Odd number");
         }
     }

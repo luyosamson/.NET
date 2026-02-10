@@ -11,5 +11,6 @@ class Program
          Console.WriteLine($"{numx}");
          numx++;
        }
+       
     }
 }
