@@ -1,5 +1,4 @@
 ﻿namespace Loops;
-
 class Program
 {
     static void Main(string[] args)
@@ -11,7 +10,6 @@ class Program
          Console.WriteLine($"{numx}");
          numx++;
        }
-       
        int x = 0;
        while (x <= 0)
        {
