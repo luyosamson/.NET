@@ -11,7 +11,6 @@ class Program
          Console.WriteLine($"{numx}");
          numx++;
        }
-       
        int x = 0;
        while (x <= 0)
        {
