@@ -23,7 +23,6 @@ class Program
 
        int num = 1;
        int total = 0;
-
        while (num <= 5)
        {
 
@@ -31,6 +30,7 @@ class Program
            num++;
 
        }
+        
        Console.WriteLine($"The total is {total}");
 
     }
